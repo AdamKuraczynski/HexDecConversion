@@ -150,7 +150,7 @@ Loose translation:
 
 ##### FinalV5.0:
 
-•	pełny zakres FinalV4.0
+•	pełny zakres FinalV4.0  
 •	automatyczne tworzenie schematu BD podczas pierwszego uruchomienia aplikacji (baza: lab, użytkownik: app, hasło: app)  
 •	nazwy tabel i kolumn powinny być adekwatne do przechowywanych danych.  
 •	jednokrotne otwarcie połączenia w aplikacji lub jednokrotne utworzenie menadżera encji w całym cyklu życia aplikacji  
