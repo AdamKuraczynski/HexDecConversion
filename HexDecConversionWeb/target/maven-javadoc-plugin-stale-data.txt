@@ -1,0 +1,80 @@
+@options
+@packages
+-classpath
+'C:/Users/Adam/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/Adam/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/Adam/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/Adam/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/Adam/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/Adam/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/temp/HexDecConversionWeb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/temp/HexDecConversionWeb/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HexDecConversionWeb-prototype prototype API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/temp/HexDecConversionWeb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HexDecConversionWeb-prototype prototype API'
+context
+database
+model
+servlets
+C:\Users\Adam\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1705435816754
+C:\Users\Adam\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1705435816834
+C:\Users\Adam\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1705435817272
+C:\Users\Adam\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1705435826893
+C:\Users\Adam\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1705435827862
+C:\Users\Adam\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1705435817909
+C:\Users\Adam\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1705435817270
+C:\Users\Adam\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1705435817375
+C:\Users\Adam\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1705435817302
+C:\Users\Adam\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1705435817341
+C:\Users\Adam\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1705435817392
+C:\Users\Adam\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1705435817414
+C:\Users\Adam\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1705435817417
+C:\Users\Adam\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1705435817450
+C:\Users\Adam\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1705435817452
+C:\Users\Adam\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1705435817553
+C:\Users\Adam\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1705435817486
+C:\Users\Adam\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1705435817525
+C:\Users\Adam\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1705435817554
+C:\Users\Adam\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1705435817596
+C:\Users\Adam\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1705435817579
+C:\Users\Adam\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1705435817607
+C:\Users\Adam\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1705435817656
+C:\Users\Adam\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1705435817633
+C:\Users\Adam\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1705435817661
+C:\Users\Adam\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1705435817783
+C:\Users\Adam\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1705435817688
+C:\Users\Adam\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1705435817753
+C:\Users\Adam\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1705435817783
+C:\temp\HexDecConversionWeb\src\main\java = 1706447981998
+C:\temp\HexDecConversionWeb\target\site\apidocs\allclasses-index.html = 1706465242890
+C:\temp\HexDecConversionWeb\target\site\apidocs\allpackages-index.html = 1706465242893
+C:\temp\HexDecConversionWeb\target\site\apidocs\element-list = 1706465242766
+C:\temp\HexDecConversionWeb\target\site\apidocs\help-doc.html = 1706465242921
+C:\temp\HexDecConversionWeb\target\site\apidocs\index-all.html = 1706465242913
+C:\temp\HexDecConversionWeb\target\site\apidocs\index.html = 1706465242873
+C:\temp\HexDecConversionWeb\target\site\apidocs\jquery-ui.overrides.css = 1706465242938
+C:\temp\HexDecConversionWeb\target\site\apidocs\member-search-index.js = 1706465242898
+C:\temp\HexDecConversionWeb\target\site\apidocs\module-search-index.js = 1706465242895
+C:\temp\HexDecConversionWeb\target\site\apidocs\overview-summary.html = 1706465242916
+C:\temp\HexDecConversionWeb\target\site\apidocs\overview-tree.html = 1706465242867
+C:\temp\HexDecConversionWeb\target\site\apidocs\package-search-index.js = 1706465242896
+C:\temp\HexDecConversionWeb\target\site\apidocs\script.js = 1706465242924
+C:\temp\HexDecConversionWeb\target\site\apidocs\search.js = 1706465242929
+C:\temp\HexDecConversionWeb\target\site\apidocs\serialized-form.html = 1706465242820
+C:\temp\HexDecConversionWeb\target\site\apidocs\stylesheet.css = 1706465242923
+C:\temp\HexDecConversionWeb\target\site\apidocs\tag-search-index.js = 1706465242898
+C:\temp\HexDecConversionWeb\target\site\apidocs\type-search-index.js = 1706465242897
