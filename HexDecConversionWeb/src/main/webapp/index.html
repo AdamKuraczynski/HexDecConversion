@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HexDec Conversion</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>HexDec Conversion</h1>
+    <main>
+        
+        <form id="conversionForm" action="Convert" method="POST">
+            <label for="userValues">Enter value for conversion</label><br>
+            <input type="text" id="userValues" name="userValues" required><br>
+            <label>Select Conversion Type:</label><br>
+            <input type="radio" id="hexToDecimal" name="conversionType" value="hexToDecimal" checked>
+            <label for="hexToDecimal">Hex to Decimal</label><br>
+            <input type="radio" id="decimalToHex" name="conversionType" value="decimalToHex">
+            <label for="decimalToHex">Decimal to Hex</label><br>
+            <input type="submit" value="Convert">
+        </form><br>
+    
+        <form id="historyForm" action="History" method="GET">
+            <label>Check Conversion History</label><br>
+            <input type="submit" value="History">
+        </form>
+        
+    </main>
+</body>
+</html>
